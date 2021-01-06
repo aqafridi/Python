@@ -1,2 +1,2 @@
 # Python
-Python labs from Basics to advance.
+Python labs code from Basics to advance.
